@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @SkyDyger 
+- 👋 Hi, I’m Yash
 - 👀 I’m interested in Coding
-- 🌱 I’m currently working as a Fullstack Devloper
-- 📫 How to reach me -skyisnoobxd@gmail.com
+- 📫 How to reach me -yk336882@gmail.com
 
 <!---
 SkyDyger/SkyDyger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
